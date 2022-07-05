@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "479648066490",
+    "project_id": "portfolio-b6949",
+    "storage_bucket": "portfolio-b6949.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479648066490:android:998a58cade45105053cb83",
+        "android_client_info": {
+          "package_name": "com.jinny_portfolio.jinny_portfolio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479648066490-fnrprco3bg8b36h62tt8kapb7rmjaelt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiZ_Ynpv8FkXyMUHD9BmqZac1TTm8lCiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479648066490-fnrprco3bg8b36h62tt8kapb7rmjaelt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
