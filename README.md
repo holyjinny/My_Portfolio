@@ -28,3 +28,7 @@ Portfolio WEB & APP with flutter.
 -   firebase 연동
     1. flutterfire configure <해당 Flutter project directory>
     2. flutter pub add firebase_core
+
+## 추가할 내용
+- 프로젝트가 추가되면 추가해보기
+- 반응형 웹 & 앱 신경쓰기
