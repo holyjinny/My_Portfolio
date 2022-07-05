@@ -47,30 +47,30 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyArgxt2dKbWuPDGlGKf744VJ7NCKxb0H2U',
-    appId: '1:479648066490:web:5966944e0ddd839653cb83',
-    messagingSenderId: '479648066490',
-    projectId: 'portfolio-b6949',
-    authDomain: 'portfolio-b6949.firebaseapp.com',
-    storageBucket: 'portfolio-b6949.appspot.com',
-    measurementId: 'G-MMW39C8VKL',
+    apiKey: 'AIzaSyAhrl7M7aQ8s2xyyaXd-eAlKAjXpkEZByg',
+    appId: '1:109078049167:web:cc43d3d15b230d842f1bfa',
+    messagingSenderId: '109078049167',
+    projectId: 'portfolio-22d86',
+    authDomain: 'portfolio-22d86.firebaseapp.com',
+    storageBucket: 'portfolio-22d86.appspot.com',
+    measurementId: 'G-TMKJDHXETG',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDiZ_Ynpv8FkXyMUHD9BmqZac1TTm8lCiA',
-    appId: '1:479648066490:android:998a58cade45105053cb83',
-    messagingSenderId: '479648066490',
-    projectId: 'portfolio-b6949',
-    storageBucket: 'portfolio-b6949.appspot.com',
+    apiKey: 'AIzaSyADCy3cSTzeqW6bVU47ZGkiESHtDVV8pIE',
+    appId: '1:109078049167:android:84483c080932876f2f1bfa',
+    messagingSenderId: '109078049167',
+    projectId: 'portfolio-22d86',
+    storageBucket: 'portfolio-22d86.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDgcJj0_ic55QzpXi3z5C8sh5wKpRBlokg',
-    appId: '1:479648066490:ios:aec54422cbeae1a453cb83',
-    messagingSenderId: '479648066490',
-    projectId: 'portfolio-b6949',
-    storageBucket: 'portfolio-b6949.appspot.com',
-    iosClientId: '479648066490-c0pha5fnihnotird3rsr3lh93jvv2oqr.apps.googleusercontent.com',
+    apiKey: 'AIzaSyCXLYhfJKN57AsSbNfVnd7qW4OZI7UlUTI',
+    appId: '1:109078049167:ios:00ae6b17e8834ce42f1bfa',
+    messagingSenderId: '109078049167',
+    projectId: 'portfolio-22d86',
+    storageBucket: 'portfolio-22d86.appspot.com',
+    iosClientId: '109078049167-94i1qdim10nlvbh4mub39k8p27ejg7de.apps.googleusercontent.com',
     iosBundleId: 'com.jinnyportfolio.jinnyPortfolio',
   );
 }
